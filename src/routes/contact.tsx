@@ -8,13 +8,13 @@ import { EMAIL, PHONE_DISPLAY, PHONE_LINK, WHATSAPP_URL } from "@/lib/site-data"
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact & Quotes | PrimeTek Digital Solutions" },
+      { title: "Contact & Quotes | PrimeTech Digital Solutions" },
       {
         name: "description",
         content:
-          "Request a quote from PrimeTek Digital Solutions by form, phone, WhatsApp or email. Tell us about your website, software or app project.",
+          "Request a quote from PrimeTech Digital Solutions by form, phone, WhatsApp or email. Tell us about your website, software or app project.",
       },
-      { property: "og:title", content: "Contact & Quotes | PrimeTek Digital Solutions" },
+      { property: "og:title", content: "Contact & Quotes | PrimeTech Digital Solutions" },
       {
         property: "og:description",
         content: "Send your project details and we'll respond with a practical next step.",
