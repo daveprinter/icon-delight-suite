@@ -6,13 +6,13 @@ import { SiteLayout } from "@/components/site-shell";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About Us | PrimeTek Digital Solutions" },
+      { title: "About Us | PrimeTech Digital Solutions" },
       {
         name: "description",
         content:
-          "PrimeTek Digital Solutions is a Kenyan technology team building websites, software and systems with strategy, design and engineering under one roof.",
+          "PrimeTech Digital Solutions is a Kenyan technology team building websites, software and systems with strategy, design and engineering under one roof.",
       },
-      { property: "og:title", content: "About Us | PrimeTek Digital Solutions" },
+      { property: "og:title", content: "About Us | PrimeTech Digital Solutions" },
       {
         property: "og:description",
         content: "A technology partner focused on practical, lasting business impact.",
@@ -53,7 +53,7 @@ function AboutPage() {
       <PageIntro
         eyebrow="Who we are"
         title="A technology team built for useful, lasting work."
-        description="PrimeTek Digital Solutions brings strategy, design and engineering together to help businesses in Kenya and beyond run on technology they can trust."
+        description="PrimeTech Digital Solutions brings strategy, design and engineering together to help businesses in Kenya and beyond run on technology they can trust."
       />
       <section className="mx-auto grid max-w-[1240px] gap-12 px-5 py-16 sm:px-6 lg:grid-cols-12">
         <div className="lg:col-span-7">

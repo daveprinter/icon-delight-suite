@@ -7,16 +7,16 @@ import { testimonials } from "@/lib/site-data";
 export const Route = createFileRoute("/testimonials")({
   head: () => ({
     meta: [
-      { title: "Client Testimonials | PrimeTek Digital Solutions" },
+      { title: "Client Testimonials | PrimeTech Digital Solutions" },
       {
         name: "description",
         content:
-          "Read what clients say about working with PrimeTek Digital Solutions on websites, software, mobile apps and automation projects.",
+          "Read what clients say about working with PrimeTech Digital Solutions on websites, software, mobile apps and automation projects.",
       },
-      { property: "og:title", content: "Client Testimonials | PrimeTek Digital Solutions" },
+      { property: "og:title", content: "Client Testimonials | PrimeTech Digital Solutions" },
       {
         property: "og:description",
-        content: "Feedback from businesses that trusted PrimeTek with their technology.",
+        content: "Feedback from businesses that trusted PrimeTech with their technology.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

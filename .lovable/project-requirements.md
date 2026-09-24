@@ -1,5 +1,5 @@
 Project requirements:
-- Brand: PrimeTek Digital Solutions
+- Brand: PrimeTech Digital Solutions
 - Light Signal Coral design with dark mode toggle
 - Main pages: Home, Services, Testimonials, Contact, About Us
 - WhatsApp and phone number: +254722493288

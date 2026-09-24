@@ -7,7 +7,7 @@
 - [ ] Add three-video homepage sequence
 - [ ] Add homepage metrics, working process tree, and closing section
 - [ ] Replace letter P with a PrimeTech logo and matching app icon
-- [ ] Correct PrimeTek/Netgenix branding to PrimeTech everywhere
+- [ ] Correct PrimeTech/Netgenix branding to PrimeTech everywhere
 - [x] Add dark mode and mobile menu panel
 - [x] Add persistent quote/contact backend
 - [ ] Verify desktop and mobile behavior after updates

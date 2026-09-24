@@ -35,10 +35,10 @@ export const services = [
 ];
 
 export const testimonials = [
-  { quote: "PrimeTek transformed our scattered process into one clear platform. The team listened, moved quickly and delivered beyond the brief.", name: "Amina N.", role: "Operations Director", rating: 5 },
+  { quote: "PrimeTech transformed our scattered process into one clear platform. The team listened, moved quickly and delivered beyond the brief.", name: "Amina N.", role: "Operations Director", rating: 5 },
   { quote: "Our new website finally reflects the quality of our business. Enquiries improved within the first month.", name: "David K.", role: "Managing Partner", rating: 5 },
   { quote: "They made a complex mobile product feel straightforward. Communication was consistent from discovery through launch.", name: "Mercy W.", role: "Product Lead", rating: 5 },
   { quote: "A dependable technology partner with excellent attention to detail and a genuinely practical approach.", name: "Brian O.", role: "Founder", rating: 5 },
   { quote: "The automation work saved our team hours each week and gave management much better visibility.", name: "Faith M.", role: "Finance Manager", rating: 5 },
-  { quote: "PrimeTek understood both our customers and our technical needs. We would gladly work with them again.", name: "Kevin T.", role: "Commercial Director", rating: 5 },
+  { quote: "PrimeTech understood both our customers and our technical needs. We would gladly work with them again.", name: "Kevin T.", role: "Commercial Director", rating: 5 },
 ];

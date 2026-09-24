@@ -7,13 +7,13 @@ import { services } from "@/lib/site-data";
 export const Route = createFileRoute("/services")({
   head: () => ({
     meta: [
-      { title: "Services | PrimeTek Digital Solutions" },
+      { title: "Services | PrimeTech Digital Solutions" },
       {
         name: "description",
         content:
-          "Website design, custom software, mobile apps, cloud, cybersecurity, SEO and automation services from PrimeTek Digital Solutions.",
+          "Website design, custom software, mobile apps, cloud, cybersecurity, SEO and automation services from PrimeTech Digital Solutions.",
       },
-      { property: "og:title", content: "Services | PrimeTek Digital Solutions" },
+      { property: "og:title", content: "Services | PrimeTech Digital Solutions" },
       {
         property: "og:description",
         content: "One technology partner for design, engineering, cloud, security and growth.",
